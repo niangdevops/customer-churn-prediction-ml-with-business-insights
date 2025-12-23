@@ -72,7 +72,3 @@ Based on the analysis, the following strategies are recommended:
 - Offer targeted discounts during the first 6 months
 - Bundle additional services to increase customer stickiness
 - Proactively engage customers identified as high churn risk
-
----
-
-## 8. Repository Structure
